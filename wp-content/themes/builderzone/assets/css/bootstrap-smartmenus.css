@@ -1,0 +1,17 @@
+/*
+bootstrap-smartmenus.css
+*/
+
+
+/*--------------------------------------------------
+=>> Menu Css
+--------------------------------------------------*/
+
+@media (max-width: 991px){
+	.navbar.navbar-header-wrap .nav {
+		background-color: rgba(0, 0, 0, 0.6);
+	}
+	.navbar.navbar-header-wrap.header-fixed-top .nav {
+		background-color: transparent;
+	}
+}
